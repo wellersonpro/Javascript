@@ -1,1 +1,0 @@
-/ Depois da troca... a = 94 e b = 7
