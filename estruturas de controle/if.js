@@ -35,7 +35,7 @@ resultado({});
 
 
 
-console.log('');
+console.log('=======================================');
 console.log('');
 console.log('ESTRUTURA IF 02...');
 
