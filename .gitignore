@@ -24,3 +24,5 @@ funcao/closures.js
 funcao/contextoLexico.js
 funcao/factory01.js
 funcao/factory02.js
+funcao/classeVSfactory.js
+funcao/desafioFuncaoConstrutora.js
