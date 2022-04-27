@@ -9,4 +9,8 @@ let estaChovendo = true // ou false.
 console.log(typeof estaChovendo);
 
 console.log(typeof "Teste");
-console.log(typeof 'Teste');
+
+let objeto = {}
+let array = []
+console.log(typeof objeto);
+console.log(typeof array);
