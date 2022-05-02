@@ -1,4 +1,4 @@
-const [a, b, c, d] = [3, 5, 1, 15];
+const [a, b, c, d] = [3, 5, 1, 15]; // a=3, b=5, c=1, d=15.
 
 const soma = a + b + c + d;
 const subtracao = d - b;

@@ -35,4 +35,4 @@ console.log('pra finalizar...');
 console.log(!!('' || null || 0 || ' ')); // Ao encontrar o primeiro verdadeiro, vai retornar true.
 
 let nome = '';
-console.log(nome || 'Desconhecido');
+console.log(nome || 'Desconhecido'); // Retorna o que for true.

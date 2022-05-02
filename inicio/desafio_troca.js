@@ -6,5 +6,5 @@ let b = 80;
 let temp = a;
 a = b;
 b = temp;
-console.log(a);
-console.log(b);
+console.log("Valor de a:" + a);
+console.log("Valor de b:" + b);
