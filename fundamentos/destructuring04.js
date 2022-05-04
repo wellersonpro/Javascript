@@ -1,7 +1,8 @@
 function rand([min = 0, max = 1000]) {
-    if (min > max ) [min, max] = [max, min];
+    if (min > max ) [min, max] = [max, min]; // Se mínimo for maior que máximo, inverta os valores.
+    // Math.random(gera números aleatórios de 0 até 0,99), exemplo: Math.random(0.2) * 10 + 40 = retorna número 42.
     const valor = Math.random() * (max - min) + min;
-    return Math.floor(valor);
+    return Math.floor(valor); // Arredonda para baixo.
 }
 
 // Gerando valores aleatórios.
