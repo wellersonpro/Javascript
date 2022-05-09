@@ -1,3 +1,4 @@
+console.log('IF ELSE 01...');
 // IF ELSE.
 
 const imprimirResultado = function(nota) {
@@ -12,9 +13,8 @@ imprimirResultado(10);
 imprimirResultado(5);
 imprimirResultado('9'); // Linguagem fracamente tipada, vai tentar interpretar mesmo sendo string.
 
-
-console.log('=======================================');
 console.log('');
+console.log('=======================================');
 console.log('IF ELSE IF 02')
 // IF ELSE IF.
 
@@ -30,7 +30,7 @@ const resultado = function(nota) {
     } else if(nota.entre(4, 6.99)) {
         console.log('Recuperação');
     } else if(nota.entre(0, 3.99)) {
-        console.log('Reprovado')
+        console.log('Reprovado');
     } else {
         console.log('Nota Inválida');
     }

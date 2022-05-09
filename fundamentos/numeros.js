@@ -8,7 +8,7 @@ console.log(Number.isInteger(peso2));
 const avaLiacao1 = 9.871;
 const avaLiacao2 = 6.871;
 
-const total = avaLiacao1 * peso1 + avaLiacao2 * peso2;
+const total = avaLiacao1 * peso1 + avaLiacao2 * peso2; // Na ordem de precedência, calcula primeiro (*) e depois (+).
 const media = total / (peso1 + peso2);
 
 console.log(media.toFixed(2)); // toFixed define a quantidade de casas decimais.

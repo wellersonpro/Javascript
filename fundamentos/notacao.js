@@ -9,7 +9,7 @@ console.log(obj1.nome);
 function Obj(nome) {
     this.nome = nome
     this.exec = function() {
-        console.log('Exec...')
+        console.log('Exec...');
     }
 }
 

@@ -1,4 +1,4 @@
-const escola = "Cod3r"
+const escola = "Cod3r";
 
 console.log(escola.charAt(4)); // Retorna a letra que está no índice 4.
 console.log(escola.charAt(5));

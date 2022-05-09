@@ -1,3 +1,4 @@
+console.log('ESTRUTURA IF 01...')
 // ESTRUTURA IF 01.
 
 function resultadoFinal(nota) {
@@ -34,9 +35,8 @@ resultado({});
 
 
 
-
-console.log('=======================================');
 console.log('');
+console.log('=======================================');
 console.log('ESTRUTURA IF 02...');
 
 
